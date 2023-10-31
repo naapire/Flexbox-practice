@@ -21,6 +21,7 @@ header{
     align-items: center;
     padding: 8px 80px;
     font-size: 17px;
+    height: 15vh;
 }
 .sb{
     display: flex;
@@ -32,7 +33,7 @@ header{
 .d1{
     background-color: #bd6f7c;
     width: 20%;
-    height: 40vh;
+    height: 45vh;
     text-align: center;
 }
 .d1 #p1{
@@ -44,7 +45,7 @@ header{
 .d2{
     background-color: #6bb2f4;
     width: 60%;
-    height: 40vh;
+    height: 45vh;
     text-align: center;
 }  
 .d2 #p2{
@@ -56,7 +57,7 @@ header{
 .d3{
     background-color: #bd6f7c;
     width: 20%;
-    height: 40vh;
+    height: 45vh;
     text-align: center;
 }
 .d3 #p3{
@@ -75,8 +76,9 @@ footer{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 8px 80px;
+    padding: 4px 0px;
     font-size: 17px;
+    height: 10vh;
 }
 
 
