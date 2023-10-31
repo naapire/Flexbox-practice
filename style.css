@@ -70,7 +70,13 @@ header{
     text-align: center;
     width: 80%;
     margin: auto;
-    /* margin-top: 70px; */
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 8px 80px;
+    font-size: 17px;
 }
 
 
